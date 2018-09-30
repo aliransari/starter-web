@@ -14,3 +14,4 @@ All deployments should be noted here.
 
 ## How to Contribute
 This is how to contribute
+and by developers mostly
