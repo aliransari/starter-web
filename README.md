@@ -15,4 +15,5 @@ All deployments should be noted here.
 ## How to Contribute
 This is how to contribute  
 and by all developers.  
-All best to strudents
+All best to strudents  
+good luck
