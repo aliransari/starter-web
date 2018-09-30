@@ -14,4 +14,5 @@ All deployments should be noted here.
 
 ## How to Contribute
 This is how to contribute  
-And by all developers.
+and by all developers.  
+All best to strudents
