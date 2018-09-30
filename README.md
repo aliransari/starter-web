@@ -9,9 +9,9 @@ All stuff for introduction goes here.
 This is the purpose of this project ...
 
 ## Deployment
-Th edeployment is done by us
+The deployment is done by us\n
 All deployments should be noted here.
 
 ## How to Contribute
-This is how to contribute
+This is how to contribute\n
 and by developers mostly
